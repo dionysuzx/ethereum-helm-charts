@@ -1,5 +1,0 @@
-global:
-  main:
-    network: "holesky"
-  checkpointSync:
-    enabled: true

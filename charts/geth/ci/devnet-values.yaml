@@ -1,4 +1,0 @@
-# Test values for devnet functionality
-devnet:
-  enabled: true
-  name: "devnet-3"
